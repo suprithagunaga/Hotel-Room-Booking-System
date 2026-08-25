@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import { asyncHandler } from '../utils/asyncHandler.js';
+import { requireAuth } from '../middleware/authMiddleware.js';
+import { bookingRateLimit } from '../middleware/rateLimitMiddleware.js';
+import { create, mine, detail } from '../controllers/bookingController.js';
+const router = Router();
+router.post('/', requireAuth, bookingRateLimit, asyncHandler(create));
+router.get('/my', requireAuth, asyncHandler(mine));
+router.get('/:id', requireAuth, asyncHandler(detail));
+export default router;
