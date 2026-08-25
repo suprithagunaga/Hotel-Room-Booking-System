@@ -117,6 +117,33 @@ hotel-room-booking/
 ├── .env.example
 └── README.md
 ```
+📸 Screenshots
+1. Home Page (Landing)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+Figure 1: Landing page showing hotel branding and “Explore Rooms” option.
+
+2. Home Page (Rooms Listing)
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+Figure 2: Rooms listing page where users can browse available rooms.
+
+3. Sign In Page
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+Figure 3: Secure login interface with email and password fields.
+
+4. Booking Page
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+Figure 4: Room booking form with check‑in and check‑out date selection.
+
+5. My Stays Dashboard
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+Figure 5: User dashboard displaying confirmed bookings with room details and prices.
+
+📹 Demo Video
+A 5–10 minute demo showing:
+
+Login and booking flow
+
+[Watch Demo Video](https://your-demo-link.com)
 
 ## 👩‍💻 Author
 
