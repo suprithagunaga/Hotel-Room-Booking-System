@@ -1,4 +1,4 @@
-# 🏨 Hotel Room Booking System
+# Hotel Room Booking System
 
 A full-stack hotel room booking system built using **React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Redis**.
 
