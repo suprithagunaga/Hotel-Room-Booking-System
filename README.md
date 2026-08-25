@@ -119,23 +119,23 @@ hotel-room-booking/
 ```
 📸 Screenshots
 1. Home Page (Landing)
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+![Caption](screenshots/01-home.png) 
 Figure 1: Landing page showing hotel branding and “Explore Rooms” option.
 
 2. Home Page (Rooms Listing)
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+![Caption](screenshots/02-home.png)
 Figure 2: Rooms listing page where users can browse available rooms.
 
 3. Sign In Page
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+![Caption](screenshots/03-signIn.png)
 Figure 3: Secure login interface with email and password fields.
 
-4. Booking Page
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+5. Booking Page
+![Caption](screenshots/04-book.png) 
 Figure 4: Room booking form with check‑in and check‑out date selection.
 
-5. My Stays Dashboard
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]  
+6. My Stays Dashboard
+![Caption](screenshots/05-mystays.png)
 Figure 5: User dashboard displaying confirmed bookings with room details and prices.
 
 📹 Demo Video
