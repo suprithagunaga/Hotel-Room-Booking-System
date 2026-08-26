@@ -143,7 +143,7 @@ A 5–10 minute demo showing:
 
 Login and booking flow
 
-[Watch Demo Video](https://your-demo-link.com)
+[Watch Demo Video]([https://your-demo-link.com](https://www.loom.com/share/6878dc8d0bdd40b183b305a9df32fda5))
 
 ## 👩‍💻 Author
 
